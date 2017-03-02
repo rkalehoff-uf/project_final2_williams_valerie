@@ -19,6 +19,7 @@ html {
     width: 100%;
 }
 
+/* head and subhead */
 main h1 {
     color: #ffe173;
     font-size: 2.5em;
@@ -32,6 +33,7 @@ main h2 {
     text-align: center;
 }
 
+/* paragraph and image */
 #intro {
     background-color: white;
     margin-left: 10px;
