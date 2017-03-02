@@ -25,6 +25,20 @@ main h1 {
     text-align: center;
 }
 
+main h2 {
+    color: #ffe173;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+#intro {
+    background-color: white;
+    color: #2866a3;
+    padding-left: 5px;
+    border: 0.5em solid #2866a3;
+    font-size: 1em;
+}
+
 
 /* fonts */
 @font-face {
