@@ -12,6 +12,11 @@ html {
     max-width: 1200px;
 }
 
+#logo {
+    height: auto;
+    width: 100%;
+}
+
 /* fonts */
 @font-face {
     font-family: "bobsburgers";
