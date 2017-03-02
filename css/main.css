@@ -61,6 +61,25 @@ main h2 {
     }
 }
 
+/* buttons - courtesy of https://www.w3schools.com/Css/css3_buttons.asp */
+#button1,
+#button2 {
+    background-color: #2866a3;
+    border-radius: 8px;
+    color: #f4f4f0;
+    font-family: "bobsburgers";
+    font-weight: lighter;
+    font-size: 3em;
+    text-align: center;
+    margin-left: 1.2em;
+}
+
+#button1:hover,
+#button2:hover {
+    background-color: #a8ea55;
+    color: #2866a3;
+}
+
 /* fonts */
 @font-face {
     font-family: "bobsburgers";
@@ -69,15 +88,15 @@ main h2 {
 }
 
 h1 {
-    font-family: bobsburgers;
+    font-family: "bobsburgers";
 }
 
 h2 {
-    font-family: 'Architects Daughter', cursive;
+    font-family: "Architects Daughter", cursive;
 }
 
 p {
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
 }
 
 /* hide headings */
