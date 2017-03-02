@@ -2,7 +2,7 @@
 @font-face {
     font-family: "bobsburgers";
     src: url("../fonts/bobsburgers.eot"); /* for IE compatibility because IE is horrible */
-    src: url("../fonts/bobsburgers.woff2") format("woff2"), url("fonts/bobsburgers.woff") format("woff"), url("fonts/bobsburgers.ttf") format("truetype");
+    src: url("../fonts/bobsburgers.woff2") format("woff2"), url("../fonts/bobsburgers.woff") format("woff"), url("../fonts/bobsburgers.ttf") format("truetype");
 }
 
 h1 {
