@@ -50,6 +50,16 @@ main h2 {
     color: #cc454f;
 }
 
+@media (min-width: 200px) {
+    #belchers1 {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 350px;
+        padding: 10px;
+    }
+}
+
 /* fonts */
 @font-face {
     font-family: "bobsburgers";
