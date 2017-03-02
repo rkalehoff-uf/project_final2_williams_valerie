@@ -18,6 +18,14 @@ html {
     width: 100%;
 }
 
+main h1 {
+    color: #ffe173;
+    font-size: 2.5em;
+    font-weight: lighter;
+    text-align: center;
+}
+
+
 /* fonts */
 @font-face {
     font-family: "bobsburgers";
