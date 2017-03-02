@@ -33,12 +33,22 @@ main h2 {
 
 #intro {
     background-color: white;
+    margin-left: 10px;
+    margin-right: 10px;
     color: #2866a3;
     padding-left: 5px;
+    padding-right: 5px;
     border: 0.5em solid #2866a3;
     font-size: 1em;
 }
 
+#intro a {
+    color: #2866a3;
+}
+
+#intro a:hover {
+    color: #cc454f;
+}
 
 /* fonts */
 @font-face {
