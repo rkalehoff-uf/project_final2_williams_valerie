@@ -10,6 +10,7 @@ html {
 
 .container {
     max-width: 1200px;
+    background: url("../img/chalkboard.jpg") no-repeat;
 }
 
 #logo {
