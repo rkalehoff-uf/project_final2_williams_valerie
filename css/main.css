@@ -11,6 +11,7 @@ html {
 .container {
     max-width: 1200px;
     background: url("../img/chalkboard.jpg") no-repeat;
+    margin: 0 auto;
 }
 
 #logo {
@@ -50,7 +51,7 @@ main h2 {
     color: #cc454f;
 }
 
-@media (min-width: 200px) {
+@media (min-width: 200px) { /* courtesy of https://www.w3.org/Style/Examples/007/center.en.html#block */
     #belchers1 {
         display: block;
         margin-left: auto;
