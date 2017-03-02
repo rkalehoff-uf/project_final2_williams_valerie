@@ -1,3 +1,13 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+    box-sizing: inherit;
+}
+
 /* fonts */
 @font-face {
     font-family: "bobsburgers";
@@ -17,6 +27,7 @@ p {
     font-family: 'Roboto', sans-serif;
 }
 
+/* hide headings */
 .visuallyhidden { /* Courtesy of HTML5 Boilerplate. Used to hide headings that shouldn't be seen but are required to code a valid HTML5 outline */
     border: 0;
     clip: rect(0 0 0 0);
