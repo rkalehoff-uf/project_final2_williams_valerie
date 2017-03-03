@@ -23,11 +23,16 @@ I reviewed the list of deductions for this project and in the syllabus.
 These are some of the elements that I used in my design:
 
 * The exterior of Bob's Burgers, including the sign:
+
 ![Restaurant Exterior](https://s-media-cache-ak0.pinimg.com/736x/e9/87/af/e987afebc88368faaa38b6bd7148b105.jpg)
+
 * The Bob's Burgers menu:
+
 ![Menu](http://vignette1.wikia.nocookie.net/bobsburgerpedia/images/6/6c/Bobs-Burgers-Wiki_Menu_01.jpg/revision/latest?cb=20140123021553)
-* Bob's [Burger of the Day](http://bobsburgeroftheday.tumblr.com/) chalkboard:
-![Burger of the Day](http://imgix.ranker.com/user_node_img/50047/1000926939/original/she-s-a-super-leek-burger-photo-u2?w=650&q=80&fm=jpg)
+
+* The interior of Bob's Burgers, including Bob's [Burger of the Day](http://bobsburgeroftheday.tumblr.com/) chalkboard:
+
+![Burger of the Day](http://pixel.nymag.com/imgs/daily/vulture/2014/03/17/17-bobs-burger-baconings.o.jpg/a_610x408.jpg)
 
 Somehow, I've got to make an image like this into a clickable hamburger menu button: 
 
