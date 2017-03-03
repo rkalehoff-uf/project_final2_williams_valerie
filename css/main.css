@@ -34,10 +34,27 @@ main h1 {
     }
 }
 
+@media (min-width: 700px) {
+    main h1 {
+        font-size: 4.5em;
+    }
+}
+
 main h2 {
     color: #ffe173;
     font-size: 1.2em;
     text-align: center;
+}
+@media (min-width: 500px) {
+    main h2 {
+        font-size: 1.5em;
+    }
+}
+
+@media (min-width: 700px) {
+    main h2 {
+        font-size: 2em;
+    }
 }
 
 /* paragraph and image */
