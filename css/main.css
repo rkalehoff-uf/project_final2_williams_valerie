@@ -28,6 +28,12 @@ main h1 {
     text-align: center;
 }
 
+@media (min-width: 500px) {
+    main h1 {
+        font-size: 3.5em;
+    }
+}
+
 main h2 {
     color: #ffe173;
     font-size: 1.2em;
@@ -88,6 +94,14 @@ main h2 {
 #button2:hover {
     background-color: #a8ea55;
     color: #2866a3;
+}
+
+@media (min-width: 500px) {
+    #button1,
+    #button2 {
+        display: inline;
+        width: 50%;
+    }
 }
 
 /* color swatches */
