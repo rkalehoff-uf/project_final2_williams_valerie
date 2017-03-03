@@ -54,16 +54,17 @@ main h2 {
     color: #cc454f;
 }
 
-@media (min-width: 390px) { /* courtesy of https://www.w3.org/Style/Examples/007/center.en.html#block */
-    #belchers1 {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        margin-top: 0.5em;
-        margin-bottom: 0.5em;
-        width: 390px;
-        padding: 0.5em;
-    }
+/* Images - centering courtesy of https://www.w3.org/Style/Examples/007/center.en.html#block */
+#belchers1 {
+    height: auto;
+    width: 100%;
+    border-radius: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    padding: 0.5em;
 }
 
 /* buttons - courtesy of https://www.w3schools.com/Css/css3_buttons.asp */
