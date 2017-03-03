@@ -88,6 +88,16 @@ main h2 {
     color: #cc454f;
 }
 
+@media (min-width: 900px) {
+    #intro {
+        display: inline-block;
+        width: 35%;
+        margin-bottom: 10px;
+        font-size: 1.4em;
+    }
+}
+
+
 /* Images - centering courtesy of https://www.w3.org/Style/Examples/007/center.en.html#block */
 #belchers1 {
     height: auto;
@@ -99,6 +109,15 @@ main h2 {
     margin-top: 4px;
     margin-bottom: 4px;
     padding: 5px;
+}
+@media (min-width: 900px) {
+    #belchers1 {
+        display: inline-block;
+        width: 60%;
+        position: relative;
+        top: 35px;
+        border: 2px solid #a8ea55;
+    }
 }
 
 /* buttons - styling courtesy of https://www.w3schools.com/Css/css3_buttons.asp */
