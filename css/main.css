@@ -97,6 +97,33 @@ main h2 {
     }
 }
 
+@media (min-width: 1000px) {
+    #intro {
+        display: inline-block;
+        width: 35%;
+        margin-bottom: 10px;
+        font-size: 1.55em;
+    }
+}
+
+@media (min-width: 1100px) {
+    #intro {
+        display: inline-block;
+        width: 35%;
+        margin-bottom: 10px;
+        font-size: 1.7em;
+    }
+}
+
+@media (min-width: 1200px) {
+    #intro {
+        display: inline-block;
+        width: 35%;
+        margin-bottom: 10px;
+        font-size: 1.9em;
+    }
+}
+
 
 /* Images - centering courtesy of https://www.w3.org/Style/Examples/007/center.en.html#block */
 #belchers1 {
