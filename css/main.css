@@ -88,12 +88,6 @@ main h2 {
     color: #cc454f;
 }
 
-@media (min-width: 900px) {
-    #intro {
-        width: 50%;
-    }
-}
-
 /* Images - centering courtesy of https://www.w3.org/Style/Examples/007/center.en.html#block */
 #belchers1 {
     height: auto;
@@ -105,14 +99,6 @@ main h2 {
     margin-top: 0.5em;
     margin-bottom: 0.5em;
     padding: 0.5em;
-}
-
-@media (min-width: 900px) {
-    #belchers1 {
-        display: inline;
-        width: 40%;
-
-    }
 }
 
 /* buttons - styling courtesy of https://www.w3schools.com/Css/css3_buttons.asp */
