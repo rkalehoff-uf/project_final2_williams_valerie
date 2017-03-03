@@ -189,9 +189,20 @@ main h2 {
 
 #red,
 #blue,
-#green {
+#green,
+#white,
+#yellow {
     padding: 10px;
 }
+
+@media (max-width: 699px) { /* courtesy of http://stackoverflow.com/questions/16550485/hide-div-tag-on-mobile-view-only */
+    #white,
+    #yellow {
+        visibility: hidden;
+        display: none;
+    }
+}
+
 
 /* fonts */
 @font-face {
