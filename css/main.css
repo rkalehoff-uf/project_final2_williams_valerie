@@ -91,6 +91,10 @@ main h2 {
 }
 
 /* color swatches */
+#swatches {
+    text-align: center;
+}
+
 #red,
 #blue,
 #green {
