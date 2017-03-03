@@ -12,6 +12,7 @@ html {
     max-width: 1200px;
     background: url("../img/chalkboard.jpg") no-repeat;
     margin: 0 auto;
+    border: .25em solid #cc454f;
 }
 
 #logo {
@@ -86,7 +87,7 @@ main h2 {
 #red,
 #blue,
 #green {
-    padding: 0.9em;
+    padding: 0.85em;
 }
 
 /* fonts */
