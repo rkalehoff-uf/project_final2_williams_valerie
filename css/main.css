@@ -12,7 +12,7 @@ html {
     max-width: 1200px;
     background: url("../img/chalkboard.jpg") no-repeat;
     margin: 0 auto;
-    border: 0.25em solid #cc454f;
+    border: 4px solid #cc454f;
 }
 
 #logo {
@@ -71,12 +71,12 @@ main h2 {
 /* paragraph and image */
 #intro {
     background-color: white;
-    margin-left: 0.75em;
-    margin-right: 0.75em;
+    margin-left: 5px;
+    margin-right: 5px;
     color: #2866a3;
-    padding-left: 0.5em;
-    padding-right: 0.5em;
-    border: 0.5em solid #2866a3;
+    padding-left: 5px;
+    padding-right: 5px;
+    border: 5px solid #2866a3;
     font-size: 1em;
 }
 
@@ -96,9 +96,9 @@ main h2 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
-    padding: 0.5em;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    padding: 5px;
 }
 
 /* buttons - styling courtesy of https://www.w3schools.com/Css/css3_buttons.asp */
@@ -107,7 +107,7 @@ main h2 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 0.2em;
+    margin-bottom: 2px;
     background-color: #2866a3;
     border-radius: 8px;
     color: #f4f4f0;
@@ -115,7 +115,7 @@ main h2 {
     font-weight: lighter;
     font-size: 3em;
     text-align: center;
-    padding: 0 0.5em;
+    padding: 0 15px;
 }
 
 #button1:hover,
@@ -140,7 +140,7 @@ main h2 {
 #red,
 #blue,
 #green {
-    padding: 0.85em;
+    padding: 10px;
 }
 
 /* fonts */
